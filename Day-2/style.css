@@ -28,7 +28,13 @@ body{
     height: 100px;
      font-size: 2em;  /* 1em=16px */
      text-align: center;
-     
+     border-radius: 50px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 10px solid
+    border
 }
 .heading{
 }
