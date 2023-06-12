@@ -1,0 +1,36 @@
+/* type selector */
+body{
+    color: rgb(242, 172, 9);
+    background-color: rgb(8, 8, 8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* class selector */
+.first{
+    color: rgb(131, 8, 8);
+}
+.large{
+    font-size: 31px;
+}
+/* id selector */
+#eklist{
+    background-color: rgb(249, 226, 211);
+}
+/* attribute selector */
+a[href="upflairs.com"]{
+    color: blue;
+    text-decoration: none;
+} 
+input[type="text"]{
+    background-color: blueviolet;
+}
+input[type="email"]{
+    background-color: blue;
+}
+/* pseudo selector */
+.first:hower{
+    color: aquamarine;
+}
+/* universal selector */
+*{
+    margin: 5%;
+}
